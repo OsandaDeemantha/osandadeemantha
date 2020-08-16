@@ -47,8 +47,6 @@ Here are some ideas to get you started:
 - [Externalize configs of your application using Kubernetes configMap](https://medium.com/faun/externalize-configs-of-your-application-using-kubernetes-configmap-72a96ac922a8?source=rss-a60b59b29420------2)
 <!-- MEDIUM:END -->
 
-<br />
-
 [linkedin]: https://www.linkedin.com/in/osanda-d
 [medium]: https://medium.com/@osa_
 [facebook]: https://www.facebook.com/osandadh
