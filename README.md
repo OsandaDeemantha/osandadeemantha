@@ -40,6 +40,11 @@ Here are some ideas to get you started:
 ### Latest Blog Posts:
 
 <!-- MEDIUM:START -->
+- [Release Management with GitFlow — Part III](https://medium.com/@osa_/release-management-with-gitflow-part-iii-813dccb73680?source=rss-a60b59b29420------2)
+- [Run multi-container Docker applications with a single command](https://medium.com/faun/run-multi-container-docker-applications-with-a-single-command-795e1949f379?source=rss-a60b59b29420------2)
+- [How to set up an NFS server and client in an Ubuntu environment to share files/directories](https://medium.com/@osa_/how-to-set-up-an-nfs-server-and-client-in-an-ubuntu-environment-to-share-files-directories-388083f2fd3e?source=rss-a60b59b29420------2)
+- [Release Management with GitFlow — Part II](https://medium.com/@osa_/release-management-with-gitflow-part-ii-8a874a9cd551?source=rss-a60b59b29420------2)
+- [Externalize configs of your application using Kubernetes configMap](https://medium.com/faun/externalize-configs-of-your-application-using-kubernetes-configmap-72a96ac922a8?source=rss-a60b59b29420------2)
 <!-- MEDIUM:END -->
 
 <br />
