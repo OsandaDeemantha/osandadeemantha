@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there, I'm Osanda Hemachandra 👋
-**Associate Engineer | Undergraduate | Developer | Freelancer**
+**Undergraduate | Developer | Freelancer**
 
 - 🔭 I’m currently working on my university research.
 - 🌱 I’m currently learning DevSecOps and Cloud computing.
