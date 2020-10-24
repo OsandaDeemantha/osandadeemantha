@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <p>&nbsp;</p>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=osandadeemantha.osandadeemantha)
-![Visits Badge](https://badges.pufler.dev/visits/osandadeemantha/osandadeemantha)
+![Visits Badge](https://badges.pufler.dev/visits/osandadeemantha)
 ![Repos Badge](https://badges.pufler.dev/repos/osandadeemantha)
 ![Gists Badge](https://badges.pufler.dev/gists/osandadeemantha)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/osandadeemantha)
