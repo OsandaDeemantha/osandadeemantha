@@ -35,6 +35,14 @@ Here are some ideas to get you started:
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=osandadeemantha.visitor-badge)
 
+[![Visits Badge](https://badges.pufler.dev/visits/osandadeemantha/osandadeemantha)](https://badges.pufler.dev)
+
+[![Repos Badge](https://badges.pufler.dev/repos/osandadeemantha)](https://badges.pufler.dev)
+
+[![Gists Badge](https://badges.pufler.dev/gists/osandadeemantha)](https://badges.pufler.dev)
+
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/osandadeemantha)](https://badges.pufler.dev)
+
 <p>&nbsp;</p>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=osandadeemantha&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&hide_title=true)
