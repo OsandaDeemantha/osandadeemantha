@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 <p>&nbsp;</p>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=osandadeemantha.visitor-badge)
-![Visits Badge](https://badges.pufler.dev/visits/osandadeemantha/osandadeemantha)]
-![Repos Badge](https://badges.pufler.dev/repos/osandadeemantha)]
-![Gists Badge](https://badges.pufler.dev/gists/osandadeemantha)]
-![Commits Badge](https://badges.pufler.dev/commits/monthly/osandadeemantha)]
+![Visits Badge](https://badges.pufler.dev/visits/osandadeemantha/osandadeemantha)
+![Repos Badge](https://badges.pufler.dev/repos/osandadeemantha)
+![Gists Badge](https://badges.pufler.dev/gists/osandadeemantha)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/osandadeemantha)
 
 <p>&nbsp;</p>
 
