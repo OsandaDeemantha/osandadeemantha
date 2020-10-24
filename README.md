@@ -31,11 +31,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="Osanda | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Osanda | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<!--  ![Visits Badge](https://badges.pufler.dev/visits/osandadeemantha/osandadeemantha)
-<!--  ![Repos Badge](https://badges.pufler.dev/repos/osandadeemantha)
-<!--  ![Gists Badge](https://badges.pufler.dev/gists/osandadeemantha)
-<!--  ![Commits Badge](https://badges.pufler.dev/commits/monthly/osandadeemantha)
-
 <p>&nbsp;</p>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=osandadeemantha&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&hide_title=true)
