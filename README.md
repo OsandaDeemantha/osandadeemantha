@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 <p>&nbsp;</p>
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=osandadeemantha.visitor-badge)
+
+<p>&nbsp;</p>
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=osandadeemantha&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&hide_title=true)
 
 ---
