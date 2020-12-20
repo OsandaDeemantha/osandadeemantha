@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=OsandaDeemantha) ![Github](https://img.shields.io/github/followers/OsandaDeemantha?label=Follow&style=social)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Ramesh-X&row=1&column=5)
+![trophy](https://github-profile-trophy.vercel.app/?username=OsandaDeemantha&row=1&column=4theme=flat)
 
 **Undergraduate | Developer | Freelancer**
 
