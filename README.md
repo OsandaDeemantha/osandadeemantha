@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there, I'm Osanda Hemachandra 👋
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=OsandaDeemantha) ![Github](https://img.shields.io/github/followers/OsandaDeemantha?label=Follow&style=social)
+
 **Undergraduate | Developer | Freelancer**
 
 - 🔭 I’m currently working on my university research.
