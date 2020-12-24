@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=OsandaDeemantha) ![Github](https://img.shields.io/github/followers/OsandaDeemantha?label=Follow&style=social)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=OsandaDeemantha&row=1&column=4&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=OsandaDeemantha&row=1&column=1&margin-w=15)
 
-![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=osandadeemantha&hide_border=false&theme=default)
+<!--  ![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=osandadeemantha&hide_border=false&theme=default)  -->
 
 **Undergraduate | Developer | Freelancer**
 
