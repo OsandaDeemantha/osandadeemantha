@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=OsandaDeemantha&row=1&column=2&margin-w=15)
 
+![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=osandadeemantha&hide_border=false&theme=default)
+
 **Undergraduate | Developer | Freelancer**
 
 - 🔭 I’m currently working on my university research.
