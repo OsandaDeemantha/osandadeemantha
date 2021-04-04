@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 <!--  ![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=osandadeemantha&hide_border=false&theme=default)  -->
 
-**Undergraduate | Developer | Freelancer**
+<!--**Software Engineer | Developer | Freelancer**
 
 - 🔭 I’m currently working on my university research.
 - 🌱 I’m currently learning DevSecOps and Cloud computing.
 - 👯 I’m looking to collaborate on freelance projects.
 - ⚡ Fun fact: I love to watch movies & listen music.
-
+-->
 <br />
 
 [<img align="left" alt="Osanda | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
