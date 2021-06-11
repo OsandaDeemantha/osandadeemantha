@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=osandadeemantha&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&hide_title=true&hide=issues)
+![Stats](https://github-readme-stats.vercel.app/api?username=osandadeemantha&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&hide_title=true)
 
 ---
 
